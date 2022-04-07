@@ -1,2 +1,2 @@
-# Hello,World
-# Introduction to C programming
+0xoo . C - Hello, World
+This repository introduces C programming language
