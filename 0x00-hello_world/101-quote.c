@@ -1,7 +1,3 @@
-#!/bin/bash
-gcc -S -masm=intel $CFILE
-
-8.
 #include <unistd.h>
 
 /**
