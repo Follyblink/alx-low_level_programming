@@ -21,4 +21,7 @@ int main(void)
 	printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
 	return (0);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> df74e5e627de0f235b2e54e7a7d896ba86d63d34
